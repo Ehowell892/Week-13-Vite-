@@ -1,0 +1,32 @@
+body {
+  margin: 20px;
+}
+
+.hiddenElement {
+  display: none
+}
+
+.deleteButton {
+  background: rgb(255, 0, 0);
+  color: aliceblue;
+}
+
+.addItem {
+  background-color: rgb(0, 255, 72);
+  color: black;
+  margin-top: 20px;
+}
+
+.table1 {
+  border: 2px solid black;
+  width: 50%;
+}
+
+.table1 tr {
+  border: 2px solid black;
+  margin: 20px;
+}
+
+.title1 {
+  color: rgb(0, 0, 0);
+}
